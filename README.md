@@ -38,21 +38,6 @@ To predict the salary of technology professionals based on factors such as job r
 - SciPy
 - Scikit-learn
 
-## 📚 Practical Implementation
-
-The project incorporates the following Statistical Inference Lab practicals:
-
-| Practical | Implementation |
-|---|---|
-| Web Scraping | Collecting technology job information |
-| Exploratory Data Analysis (EDA) | Understanding job and salary data |
-| Data Visualization | Visualizing salary trends and skill demand |
-| Probability Distribution | Analyzing salary distributions |
-| Central Limit Theorem | Studying the sampling distribution of mean salaries |
-| Confidence Interval | Estimating the population mean salary |
-| Hypothesis Testing | Testing differences in salaries across job categories |
-| Regression Analysis | Predicting salaries using job-related features |
-
 ## 📁 Dataset Features
 
 The dataset may contain the following attributes:
